@@ -6,11 +6,11 @@
 
 
 <a href="https://www.acmicpc.net/" target="_blank">
-<img src="https://img.shields.io/badge/BAEKJOON-426871?style=for-the-badge&logo=Bower&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/BAEKJOON-426871?style=flat-square&logo=Bower&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://school.programmers.co.kr/" target="_blank">
-<img src="https://img.shields.io/badge/PROGRAMMERS-B6B0FF?style=for-the-badge&logo=Probot&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/PROGRAMMERS-B6B0FF?style=flat-square&logo=Probot&logoColor=FFFFFF"/>
 </a>
 
 
